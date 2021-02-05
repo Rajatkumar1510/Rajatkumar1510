@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"> 
-    <strong><img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> I am <mark>Rajat</mark></strong><img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="90px">
+    <strong> I am <mark>Rajat</mark></strong><img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="90px">
     <br> <strong> I’m currently learning <img src="https://media.giphy.com/media/3ohc1axM00ocu2K8gg/giphy.gif" width="45px"> JavaScript and everything around it  <img src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" width="36px"> </strong>
     <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong> 
   </h1>
@@ -41,7 +41,7 @@
 <div>
 <p align="left">
   <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats" width="450px"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajatkumar1510&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats" width="450px"> 
   <img align="center" src="https://media.giphy.com/media/H7YO03BHmBMWuWUkez/giphy.gif" width="180px">
 </p></div>
 <br>
