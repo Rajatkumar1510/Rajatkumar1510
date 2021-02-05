@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"> 
     <strong><img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> I am <mark>Rajat</mark></strong><img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="90px">
-    <br> <strong> I’m currently learning <img src="https://media.giphy.com/media/3ohc1axM00ocu2K8gg/giphy.gif" width="45px"> JavaScript and everything around it  <img src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" width="36px"> and brushing up my basics. </strong>
+    <br> <strong> I’m currently learning <img src="https://media.giphy.com/media/3ohc1axM00ocu2K8gg/giphy.gif" width="45px"> JavaScript and everything around it  <img src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" width="36px"> </strong>
     <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong> 
   </h1>
 </div>
@@ -112,5 +112,5 @@
 </p>
 
 
-## ⭐️ From [@Srishti](https://github.com/SrishtiSinghD) 
+## ⭐️ From [@Rajat](https://github.com/rajatkumar1510) 
 <h3 align="right">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
