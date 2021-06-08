@@ -13,6 +13,8 @@
 [<img align="left" alt="dhruvsaxena1998" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajatkumar1510&label=Profile%20views&color=0e75b6&style=flat" alt="ravikantsinghsta" /> </p>
+
 
 ### Languages and Tools:
 
