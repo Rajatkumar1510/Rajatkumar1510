@@ -1,5 +1,5 @@
 ## Hey there 👋
-#### A JS Front-end Developer on the way to become fullstack.
+#### A JavaScript Full stack developer
 ---
 
 - 🌱 Trying to improve my skills everyday
